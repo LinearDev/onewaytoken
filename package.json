@@ -1,7 +1,8 @@
 {
   "name": "onewaytoken",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "One way token generator",
+  "repository": "https://github.com/LinearDev/onewaytoken",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "keywords": [
