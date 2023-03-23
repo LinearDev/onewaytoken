@@ -1,0 +1,1 @@
+{"version":3,"file":"tokenStore.d.ts","sourceRoot":"","sources":["../src/tokenStore.ts"],"names":[],"mappings":"AAAA,KAAK,OAAO,GAAG;IACX,KAAK,EAAE,OAAO,CAAA;IACd,OAAO,EAAE,MAAM,CAAA;CAClB,CAAA;AAyBD,eAAO,MAAM,GAAG,QAAS,MAAM,SAA4B,CAAA;AAC3D,eAAO,MAAM,GAAG,QAAS,MAAM,YAA4B,CAAA;AAC3D,eAAO,MAAM,QAAQ,QAAS,MAAM,YAAiC,CAAA"}
