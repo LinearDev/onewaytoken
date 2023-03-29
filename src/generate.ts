@@ -12,4 +12,4 @@ class Token {
 
 const token = new Token();
 
-export const create = (): string => {return token.create()}
+export const create = (): string => {return token.create()};

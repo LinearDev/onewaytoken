@@ -1,4 +1,4 @@
-type useType = {
+export type useType = {
     error: boolean
     message: string
 }
